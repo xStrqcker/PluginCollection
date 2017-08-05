@@ -1098,5 +1098,13 @@
 		"jarName": "ExploitPatcher.jar",
 		"configName": "ExploitPatcher",
 		"freePlugin":true
+	},
+	{ 	"name": "EssentialsXGroupManager",
+	 	"desc":"Makes it So you can create ranks",
+	        "jarname":"EssentialsXGroupManager.jar",
+	"configName": "EssentialsXGroupManager
+	 
+
+ 
 	}
 ]
